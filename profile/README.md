@@ -1,4 +1,4 @@
-![flag](flag.png)
+![flag](https://hujiaming.xin/.github/profile/flag.png)
 
 官网: https://hujiaming.xin
 
